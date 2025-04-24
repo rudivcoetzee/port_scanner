@@ -26,4 +26,4 @@ print("Port scanning completed.")
 # simple port scanner I made using socket
 # https://docs.python.org/3/library/socket.html
 
-#added a little banner there :)
+# added a little banner there :)
